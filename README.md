@@ -14,5 +14,6 @@ Abstract
 
 **Keywords:**
 OR in health services, nurse rostering problem, integer programming, particle swarm optimization, discrete PSO
+
 ***Corresponding author. Tel.**: +90 232 301 7615; **Fax**: +90 232 301 7608.
 **E-mail address**: bilge.bilgen@deu.edu.tr.
