@@ -7,6 +7,5 @@ XML files are for computational experiments of the study. They are generated tak
 
 
 - [Instance 01](/Instances/Instance_01.xml)
-- /Instances/Instance_02.xml
-- /Instances/Instance_s.xml
-- 
+- [Instance 02](/Instances/Instance_02.xml)
+- [Instance s](/Instances/Instance_s.xml)
