@@ -1,4 +1,4 @@
-[ABSTRACT](/README.md) | [OVERVIEW](Overview/README.md)  | [SOLUTION APPROACH](SolutionApproach/README.md)  | [INSTANCES](Instances.md)  | [COMPUTATIONAL RESULTS](ComputationalResults/README.md)
+[ABSTRACT](/README.md) | [INSTANCES](Instances/README.md)  | [SOURCE CODE](ComputationalResults/README.md)
 ------------- | ------------- | ------------- | ------------- | -------------
 
 `ABSTRACT`
