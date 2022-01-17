@@ -3,7 +3,7 @@
 `SOURCE CODE`
 ====================
 
-This section includes all the source code of the solution. main.java file is the starting point of the algorithm.
+This section includes all the source code of the solution. Main.java file is the starting point of the algorithm.
 
 - [Main.java](/SourceCode/Main.java)
 - [Data.java](/SourceCode/Data.java)
